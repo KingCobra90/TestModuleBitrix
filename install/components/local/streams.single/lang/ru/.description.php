@@ -1,0 +1,4 @@
+<?
+$MESS["KINGCOBRA_STREAMS_SINGLE_NAME"] = "Стрим";
+$MESS["KINGCOBRA_STREAMS_PATH_NAME"] = "Онлайн трансляции";
+?>
